@@ -6,6 +6,6 @@ Other globs for the raspberry pi with the same filename do not work so perhaps t
 
 ## Buildroot package
 
-See the [jlbsp repository](../jlbsp)
+See the [jlbsp repository](https://github.com/abc123me/jlbsp)
 
 *USE AT YOUR OWN RISK*
